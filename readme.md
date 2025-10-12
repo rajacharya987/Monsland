@@ -136,7 +136,7 @@ You awaken on the Horror Islands, a cluster of cursed biomes that feed on fear. 
 - Main gameplay loop in `Game.tsx` with hooks managing state, audio, and rendering.
 - Bundled with **Vite** (base path set to `./` for platforms like itch.io).
 
-## How to Play Summary
+## How to Play 
 1. Launch the game and read the manual near the start portal.
 2. Explore the island using minimap guidance.
 3. Prioritize grabbing an axe, then gun and ammo.
